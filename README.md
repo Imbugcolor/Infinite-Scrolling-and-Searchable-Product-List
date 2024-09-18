@@ -14,13 +14,6 @@ This Project is a Simple Products List Project which demonstrates the following
 ### Install Node JS
 Refer to https://nodejs.org/en/ to install nodejs v21.0.0
 
-### Install create-react-app
-Install create-react-app npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
-
-```bash
-npm install -g create-react-app
-```
-
 ## Cloning and Running the Application in local
 
 Clone the project into local 
@@ -42,6 +35,11 @@ The Application Runs on **localhost:3000**
 #### URL
 
 The application has just one url / which ties to *Products* Component
+
+## Live Application URL
+
+### https://sample-products-page.onrender.com/
+This URL has the application deployed in
 
 ## Resources
 
