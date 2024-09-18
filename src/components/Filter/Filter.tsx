@@ -50,7 +50,7 @@ const Filter = () => {
         <div className="filter_menu">
             <div className="search">
                 <div className="search_input_container" >
-                    <input type="text" placeholder="Nhập sản phẩm bạn muốn tìm kiếm ..."
+                    <input type="text" placeholder="Type to search products..."
                         value={searchInput}
                         onChange={handleInputChange}
                     />
